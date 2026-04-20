@@ -87,6 +87,7 @@ To address the task requirements, I applied appropriate Markdown elements such a
 
 ## 🔴 Result (Reflection and Learning)
 The final product met the task requirements by presenting a clear, well-structured, and professionally formatted CV within a digital portfolio. This activity enhanced my understanding of Markdown as a practical tool for technical documentation and strengthened my ability to apply theoretical knowledge in a practical context. Furthermore, it developed my problem-solving skills and attention to detail. The experience has prepared me to create effective digital documentation and reinforced the importance of using appropriate tools in professional IT environments.
+
 ---
 
 # Reflection on Embedding My Video Introduction Using the STAR Method
