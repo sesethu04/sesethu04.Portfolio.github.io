@@ -109,4 +109,5 @@ To complete this task, I recorded a video introduction that clearly communicates
 
 ## 🔴 Result (Reflection and Learning)
 The final outcome was a successfully embedded video that enhances the interactivity and professionalism of my portfolio. This task strengthened my understanding of integrating multimedia elements within a Markdown-based environment and highlighted the importance of user experience considerations such as accessibility and functionality. Furthermore, it improved my confidence in presenting myself professionally through digital media. Overall, this experience contributed to my technical and communication skills, which are essential in the IT industry.
+
 ---
