@@ -62,7 +62,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 ## 🎥 Video Introduction
-<video width="600" controls>
+<video width="450" controls>
   <source src="mock video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
