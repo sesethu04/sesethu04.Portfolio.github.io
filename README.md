@@ -87,3 +87,25 @@ To address the task requirements, I applied appropriate Markdown elements such a
 
 ## 🔴 Result (Reflection and Learning)
 The final product met the task requirements by presenting a clear, well-structured, and professionally formatted CV within a digital portfolio. This activity enhanced my understanding of Markdown as a practical tool for technical documentation and strengthened my ability to apply theoretical knowledge in a practical context. Furthermore, it developed my problem-solving skills and attention to detail. The experience has prepared me to create effective digital documentation and reinforced the importance of using appropriate tools in professional IT environments.
+---
+
+# Reflection on Embedding My Video Introduction Using the STAR Method
+
+## 🟡 Situation (Context and Understanding of the Task)
+As part of the portfolio development assignment, we were required to include a video introduction within our digital portfolio. The purpose of this task was to demonstrate both technical implementation skills and the ability to present ourselves professionally in a digital format. The video needed to be embedded directly into the portfolio using appropriate web-compatible methods.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task involved recording a professional video introduction and embedding it into my portfolio using HTML within a Markdown environment. This required an understanding of how Markdown supports HTML elements, as well as ensuring that the video was accessible, properly formatted, and functional across different platforms and browsers.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+To complete this task, I recorded a video introduction that clearly communicates my background, skills, and career goals. I then embedded the video using the HTML `<video>` tag within my Markdown file, specifying attributes such as width and controls to improve usability. I ensured that the correct file format (MP4) was used for compatibility. Additionally, I tested the video multiple times to confirm that it loads correctly and that playback controls function as expected. Where challenges occurred, such as ensuring proper file linking and display, I resolved them through testing and adjustments.
+
+---
+
+## 🔴 Result (Reflection and Learning)
+The final outcome was a successfully embedded video that enhances the interactivity and professionalism of my portfolio. This task strengthened my understanding of integrating multimedia elements within a Markdown-based environment and highlighted the importance of user experience considerations such as accessibility and functionality. Furthermore, it improved my confidence in presenting myself professionally through digital media. Overall, this experience contributed to my technical and communication skills, which are essential in the IT industry.
+---
