@@ -68,7 +68,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 </video>
 
 ---
-# Reflection on Coding My CV in Markdown Using the STAR Method
+# Reflection on Coding My CV in Markdown 
 
 ## 🟡 Situation (Context and Understanding of the Task)
 As part of the portfolio development assignment at CPUT, we were required to design a professional digital portfolio and include our curriculum vitae (CV) using Markdown language. This task aimed to assess our ability to apply industry-relevant tools and demonstrate an understanding of modern documentation practices used in the Information Technology field.
@@ -90,7 +90,7 @@ The final product met the task requirements by presenting a clear, well-structur
 
 ---
 
-# Reflection on Embedding My Video Introduction Using the STAR Method
+# Reflection on Embedding My Video Introduction
 
 ## 🟡 Situation (Context and Understanding of the Task)
 As part of the portfolio development assignment, we were required to include a video introduction within our digital portfolio. The purpose of this task was to demonstrate both technical implementation skills and the ability to present ourselves professionally in a digital format. The video needed to be embedded directly into the portfolio using appropriate web-compatible methods.
@@ -109,5 +109,27 @@ To complete this task, I recorded a video introduction that clearly communicates
 
 ## 🔴 Result (Reflection and Learning)
 The final outcome was a successfully embedded video that enhances the interactivity and professionalism of my portfolio. This task strengthened my understanding of integrating multimedia elements within a Markdown-based environment and highlighted the importance of user experience considerations such as accessibility and functionality. Furthermore, it improved my confidence in presenting myself professionally through digital media. Overall, this experience contributed to my technical and communication skills, which are essential in the IT industry.
+
+---
+
+# Reflection: Using GitHub Pages 
+
+## 🟡 Situation (Context and Understanding of the Task)
+As part of the portfolio development assignment, we were required to publish our digital portfolio using GitHub Pages. The purpose of this task was to demonstrate our ability to deploy a functional website using a real-world platform commonly used in the IT industry. This required not only technical knowledge but also an understanding of how web content is hosted and accessed online.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task involved setting up a GitHub repository, uploading my portfolio files, and configuring GitHub Pages to host the website. This required applying knowledge of version control, file structure, and web deployment processes. Additionally, I needed to ensure that all elements of the portfolio, including my CV in Markdown and embedded video, displayed correctly in the live environment.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+To complete this task, I created a repository on GitHub and uploaded all necessary files, including my Markdown documents and media content. I then enabled GitHub Pages through the repository settings and selected the appropriate branch for deployment. I ensured that my file structure was correct, particularly the placement of the main `index` file, to allow the site to render properly. During the process, I encountered challenges related to file paths and content display, which I resolved through troubleshooting and testing. I repeatedly updated and committed changes to ensure the final version functioned as expected.
+
+---
+
+## 🔴 Result (Reflection and Learning)
+The final result was a successfully deployed digital portfolio accessible online via GitHub Pages. This task enhanced my understanding of web hosting, version control, and deployment processes. It also strengthened my problem-solving skills and ability to troubleshoot technical issues. Furthermore, it provided practical experience in using industry-standard tools, which is essential for my development as an IT professional. Overall, this experience contributed significantly to my ability to create, manage, and publish web-based projects.
 
 ---
