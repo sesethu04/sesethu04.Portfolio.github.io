@@ -26,7 +26,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-## 🛠️ Skills
+##  Skills
 - HTML & CSS  
 - JavaScript  
 - Java  
