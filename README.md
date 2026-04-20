@@ -61,6 +61,13 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 - Contact: 073 273 4638
 
 ---
+## 🎥 Video Introduction
+<video width="600" controls>
+  <source src="mock video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 # Reflection on Coding My CV in Markdown Using the STAR Method
 
 ## 🟡 Situation (Context and Understanding of the Task)
