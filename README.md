@@ -13,7 +13,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-##  Education
+## Education
 
 **Cape Peninsula University of Technology**  
 *Diploma in ICT: Application Development (Final Year)*  
@@ -26,7 +26,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-##  Skills
+## Skills
 - HTML & CSS  
 - JavaScript  
 - Java  
@@ -37,7 +37,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-##  Experience & Projects
+## Experience & Projects
 
 ### Student Expense Tracker App *(Project Coordinator)*
 - Developed a website to track expenses and visualize spending habits using Java.
@@ -50,7 +50,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 
 ---
 
-##  References
+## References
 
 **Mr. Menze**  
 - Company: Murray High School  
@@ -61,6 +61,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 - Contact: 073 273 4638
 
 ---
+
 ## 🎥 Video Introduction
 <video width="450" controls>
   <source src="mock video.mp4" type="video/mp4">
@@ -68,6 +69,7 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 </video>
 
 ---
+
 # Reflection on Coding My CV in Markdown 
 
 ## 🟡 Situation (Context and Understanding of the Task)
@@ -108,7 +110,7 @@ To complete this task, I recorded a video introduction that clearly communicates
 ---
 
 ## 🔴 Result (Reflection and Learning)
-The final outcome was a successfully embedded video that enhances the interactivity and professionalism of my portfolio. This task strengthened my understanding of integrating multimedia elements within a Markdown-based environment and highlighted the importance of user experience considerations such as accessibility and functionality. Furthermore, it improved my confidence in presenting myself professionally through digital media. Overall, this experience contributed to my technical and communication skills, which are essential in the IT industry.
+The final outcome was a successfully embedded video that enhances the interactivity and professionalism of our portfolio. This task strengthened my understanding of integrating multimedia elements within a Markdown-based environment and highlighted the importance of user experience considerations such as accessibility and functionality. Furthermore, it improved my confidence in presenting myself professionally through digital media. Overall, this experience contributed to my technical and communication skills, which are essential in the IT industry.
 
 ---
 
@@ -133,3 +135,167 @@ To complete this task, I created a repository on GitHub and uploaded all necessa
 The final result was a successfully deployed digital portfolio accessible online via GitHub Pages. This task enhanced my understanding of web hosting, version control, and deployment processes. It also strengthened my problem-solving skills and ability to troubleshoot technical issues. Furthermore, it provided practical experience in using industry-standard tools, which is essential for my development as an IT professional. Overall, this experience contributed significantly to my ability to create, manage, and publish web-based projects.
 
 ---
+
+# Agile Team Charter (PartLink Project)
+
+## 📁 Evidence: Team Charter
+* **Objective:** To develop and launch "PartLink," a trusted digital marketplace connecting vehicle owners, mechanics, and small transport operators in Khayelitsha with verified car parts sellers.
+* **Team Members:** Hillary Itlhabanyeng, Inam Klaas, Onika Gobane, Siphesihle Khinase, Sesethu Nciti, Nondumiso Ngobese, Liyabona Ngece.
+* **My Role:** Team member and contributor (participating in Agile ceremonies, Trello kanban workflows, and collaborative development).
+* *Artifact:* `Agile Team Charter Partlink.docx`
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+As part of the year-long portfolio development assignment, our team was required to establish and document an Agile Team Charter. Following transitions in group structures during the academic year, I joined the PartLink project team focusing on solving vehicle part sourcing challenges in Khayelitsha.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task required collaborating with the team to define our mission, roles, core values (respect, transparency, accountability), communication plans, and working agreements to ensure smooth execution.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+We implemented daily stand-ups and weekly Thursday meetings to track progress, utilized Trello Kanban boards for task management, and adhered to a clear Definition of Done (DoD). 
+
+---
+
+## 🔴 Result (Reflection and Learning)
+Co-creating and executing the PartLink team charter fostered strong team alignment, accountability, and efficient task execution, resulting in a cohesive mobile-first marketplace design.
+
+---
+
+# User Stories and Tasks (PartLink Project)
+
+## 📁 Evidence: User Stories & Task Breakdown
+* **Overview:** Based on community survey data (21 responses showing high demand for accessible car parts), our team defined user stories following the format: *As a [user], I want to [goal], so that [benefit]*. Stories were prioritized using the MoSCOW method (Must, Should, Could).
+* **Core User Groups:** Car owners, Mechanics, Small transport business owners, Sellers, Car enthusiasts, and Administrators.
+* *Artifact:* `PartLink_User_Stories.pdf`
+
+### Key User Story Examples:
+1. **US-01: Register an account (Priority: Must)**
+   * *Acceptance Criteria:* Register with name, contact details, password, and user type (buyer/seller); duplicate emails/phones rejected; confirmation shown.
+   * *Tasks:* Build Registration screen in React, add form validation, create user table and register endpoint (Java, MySQL).
+2. **US-06: List a car part (Priority: Must)**
+   * *Acceptance Criteria:* Requires part name, brand/model, condition, price, location, and at least one photo; appears in search after saving.
+   * *Tasks:* Build listing form in React, add photo upload, save listings through Java API to MySQL.
+3. **US-08: Search for a part (Priority: Must)**
+   * *Acceptance Criteria:* Results show part name, price, condition, and location; fallback message suggests requesting the part if nothing matches.
+   * *Tasks:* Add search bar to Home/Products screen, create search endpoint, build result cards.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+To translate our community research into actionable development steps for PartLink, we needed to define structured user stories and break them down into specific technical tasks for frontend, backend, and database implementation.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task required categorizing features across accounts, listings, search/buying, and trust/safety, prioritizing them using MoSCOW, and mapping out acceptance criteria and granular developer tasks.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+I actively contributed to defining and structuring user stories for marketplace features (such as product listings, search filters, and shopping carts), linking them directly to our Trello board and sprint plans.
+
+---
+
+## 🔴 Result (Reflection and Learning)
+Working with detailed user stories provided clear development direction, ensured our technical implementation matched user needs identified in community surveys, and improved team coordination throughout sprints.
+
+---
+
+# Product Backlog (PartLink Project)
+
+## 📁 Evidence: Product Backlog Board
+* **Overview:** The Product Backlog serves as our prioritized list of all required work, features, bug fixes, and improvements needed for the PartLink application.
+* **Live Board Link:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
+* **Backlog Structure:** Organized using Kanban workflows to manage user stories prioritized through the MoSCOW framework.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+To manage the scope and workflow of the PartLink project effectively, our team needed a centralized, dynamic product backlog that tracks all functional requirements from initial conception through to deployment.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task required creating and maintaining a structured product backlog on Trello, categorizing backlog items, assigning priorities (Must, Should, Could), and estimating effort for each development sprint.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+I actively engaged with our Trello board to track tasks, move cards across workflow columns during sprints, and align backlog items with our user stories and database milestones.
+
+---
+
+## 🔴 Result (Reflection and Learning)
+Utilizing a live Kanban product backlog ensured complete transparency across the development team, strengthened sprint planning, and kept our project delivery organized and accountable.
+
+---
+
+# Sprint Backlog (PartLink Project)
+
+## 📁 Evidence: Sprint Backlog & Visual Execution
+* **Overview:** The Sprint Backlog details our actionable 10-Sprint plan covering the entire development lifecycle of the PartLink application—from initial team setup and community research to wireframing, frontend/backend integration, system testing, and final deployment.
+* **Live Trello Board:** [PartLink Sprint Backlog Board](https://trello.com/b/PmNt1Ast/parklink)
+* **Visual Trello Evidence:** Captured via sprint taskboard snapshots (Sprints 1 through 10) showing completed checklists and team member assignments (`SN`, `OG`, `HI`, `IK`, `LN`, `N`, `S`).
+
+### Breakdown of Sprint Backlog Execution:
+* **Sprint 1-4:** Team setup, community research (Khayelitsha survey), business case analysis, and risk management planning.
+* **Sprint 5-6:** Product backlog prioritization, MVP scoping, and comprehensive 17-screen wireframe design.
+* **Sprint 7:** React frontend development, MySQL database ERD, Java backend setup (IntelliJ IDEA), and API integration.
+* **Sprint 8-10:** Authentication flows, system testing, user feedback collection, risk register updates, UI refinement, sprint retrospectives, and final deployment.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+To successfully deliver the PartLink application within the academic timeframe, our team required an actionable, real-time Sprint Backlog that broke down our product backlog into manageable daily tasks across 10 distinct sprints.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task involved selecting specific high-priority user stories and tasks for each sprint backlog, assigning member responsibilities, setting task completion checklists, and updating statuses on Trello.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+I actively participated in executing assigned sprint tasks—including wireframe reviews, marketplace frontend building, Java backend integration, and API data flow testing. I collaborated closely with team members during daily stand-ups and sprint ceremonies, ensuring tasks met our Definition of Done (DoD).
+
+---
+
+## 🔴 Result (Reflection and Learning)
+Executing a structured 10-Sprint Backlog on Trello provided practical experience in Agile sprint management, demonstrating how breaking complex projects into timeboxed daily tasks keeps development on schedule and leads to a fully functional application.
+
+---
+
+# Agile Logbook (PartLink Project)
+
+## 📁 Evidence: Daily Logbooks & Taskboard Workflow
+* **Overview:** Our Agile logbook records our daily stand-ups, progress updates, blockers, and next steps across sprints—tracking our transition through research, prototyping, front-end React development, team restructuring, and system integration.
+* **Logbook Summaries:**
+  * *Sprint 2 Prototype Phase:* Focused on drafting wireframes for search/filter and seller listings, turning them into clickable prototypes, and overcoming tool familiarity challenges.
+  * *Team Onboarding & Tech Stack:* Welcomed Sesethu Nciti to the team as Researcher, mapped out Trello cards for wireframe planning (Days 1–4), and aligned on our tech stack: React (VS Code), Java (IntelliJ IDEA), and MySQL.
+  * *Repository & Front-End Build:* Created the GitHub repository, built out all 17 wireframed screens in React (Landing, Home, Auth, Listings, Cart, Checkout), and added lecturer-assigned colour palette documentation.
+  * *Team Realignment & Finalizing Front-End:* Managed team transition following Hillary's departure, with Onika stepping up as team lead, finalized the brand colour palette page, and welcomed Liyabona Ngece to the team for backend integration tasks.
+
+---
+
+## 🟡 Situation (Context and Understanding of the Task)
+As part of our Agile methodology requirements, we maintained a detailed Agile logbook to document daily stand-up discussions, completed tasks, planned actions, and team impediments throughout the project lifecycle.
+
+---
+
+## 🔵 Task (Application of Knowledge and Skills)
+The task required recording daily updates for every stand-up meeting, tracking work progress against our taskboard, managing team member onboarding/offboarding transitions, and logging any technical bottlenecks or risks encountered.
+
+---
+
+## 🟢 Action (Implementation and Problem-Solving)
+I actively contributed to daily stand-ups, collaborated on resolving prototyping navigation issues and React component structuring, and helped document team adjustments (such as welcoming new members and redistributing tasks after team changes). All daily progress was cross-referenced and updated on our Trello taskboard and GitHub repository.
+
+---
+
+## 🔴 Result (Reflection and Learning)
+Maintaining a rigorous Agile logbook provided complete visibility into our team's daily velocity and problem-solving process. It taught us how to adapt smoothly to team changes, manage blockers proactively, and maintain steady momentum toward delivering a fully realized digital marketplace.
