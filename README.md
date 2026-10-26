@@ -1,10 +1,10 @@
 # SESETHU NCITI
 
 ## Contact Information
-- **Address:** 10 Dorset, Woodstock, 7925  
-- **Phone:** 078 686 7925  
+- **Address:** 10 Dorset, Woodstock, 7925
+- **Phone:** 078 686 7925
 - **Email:** 231118384@mycput.ac.za
-- **GitHub:** Sesethu04  
+- **GitHub:** Sesethu04
 
 ---
 
@@ -16,13 +16,13 @@ Motivated and detail-oriented IT student with a strong foundation in programming
 ## Education
 
 **Cape Peninsula University of Technology**  
-*Diploma in ICT: Application Development (Final Year)*  
+*Diploma in ICT: Application Development (Final Year)*
 
 **Cape Peninsula University of Technology**  
-*Higher Certificate in Information and Communication Technology — 2023*  
+*Higher Certificate in Information and Communication Technology — 2023*
 
 **Murray High School**  
-*National Senior Certificate — 2022*  
+*National Senior Certificate — 2022*
 
 ---
 
@@ -128,12 +128,12 @@ The task involved setting up a GitHub repository, uploading my portfolio files, 
 ---
 
 ## 🟢 Action (Implementation and Problem-Solving)
-To complete this task, I created a repository on GitHub and uploaded all necessary files, including my Markdown documents and media content. I then enabled GitHub Pages through the repository settings and selected the appropriate branch for deployment. I ensured that my file structure was correct, particularly the placement of the main `index` file, to allow the site to render properly. During the process, I encountered challenges related to file paths and content display, which I resolved through troubleshooting and testing. I repeatedly updated and committed changes to ensure the final version functioned as expected.
+To complete the task, I created a repository on GitHub and uploaded all necessary files, including my Markdown documents and media content. I then enabled GitHub Pages through the repository settings and selected the appropriate branch for deployment. I ensured that my file structure was correct, particularly the placement of the main `index` file, to allow the site to render properly. During the process, I encountered challenges related to file paths and content display, which I resolved through troubleshooting and testing. I repeatedly updated and committed changes to ensure the final version functioned as expected.
 
 ---
 
 ## 🔴 Result (Reflection and Learning)
-The final result was a successfully deployed digital portfolio accessible online via GitHub Pages. This task enhanced my understanding of web hosting, version control, and deployment processes. It also strengthened my problem-solving skills and ability to troubleshoot technical issues. Furthermore, it provided practical experience in using industry-standard tools, which is essential for my development as an IT professional. Overall, this experience contributed significantly to my ability to create, manage, and publish web-based projects.
+The final result was a successfully deployed digital portfolio accessible online via GitHub Pages. This activity enhanced my understanding of web hosting, version control, and deployment processes. It also strengthened my problem-solving skills and ability to troubleshoot technical issues. Furthermore, it provided practical experience in using industry-standard tools, which is essential for my development as an IT professional.
 
 ---
 
@@ -172,7 +172,7 @@ Co-creating and executing the PartLink team charter fostered strong team alignme
 
 ## 📁 Evidence: User Stories & Task Breakdown
 
-- **Overview:** Based on community survey data (21 responses showing high demand for accessible car parts), our team defined user stories following the format: *As a [user], I want [goal], so that [benefit]*. Stories were prioritized using the MoSCoW method (Must, Should, Could).
+- **Overview:** Based on community survey data (21 responses showing high demand for accessible car parts), our team defined user stories following the format: *As a [user], I want to [goal], so that [benefit]*. Stories were prioritized using the MoSCoW method (Must, Should, Could).
 - **Core User Groups:** Car owners, mechanics, small transport business owners, sellers, car enthusiasts, and administrators.
 - **Document Evidence:**
   - [View PartLink Marketplace User Stories PDF](./PartLink_User_Stories.pdf)
@@ -240,7 +240,7 @@ I actively engaged with our Trello board to track tasks, move cards across workf
 ---
 
 ## 🔴 Result (Reflection and Learning)
-Utilizing a live Kanban product backlog ensured complete transparency across the development team, strengthened sprint planning, and kept our project delivery organized and accountable.
+Utilizing a live Kanban product backlog ensured complete transparency across the development team, strengthened sprint planning, and kept the project delivery organized and accountable.
 
 ---
 
@@ -277,7 +277,7 @@ I actively participated in executing assigned sprint tasks—including wireframe
 ---
 
 ## 🔴 Result (Reflection and Learning)
-Executing a structured 10-Sprint Backlog on Trello provided practical experience in Agile sprint management, demonstrating how breaking complex projects into timeboxed daily tasks keeps the project on schedule and supports successful delivery.
+Executing a structured 10-Sprint Backlog on Trello provided practical experience in Agile sprint management, demonstrating how breaking complex projects into timeboxed daily tasks keeps development on schedule and leads to a fully functional application.
 
 ---
 
