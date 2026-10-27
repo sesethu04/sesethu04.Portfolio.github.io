@@ -285,15 +285,24 @@ Executing a structured 10-Sprint Backlog on Trello provided practical experience
 
 ## 📁 Evidence: Daily Logbooks & Taskboard Workflow
 
-- **Overview:** Our Agile logbook records our daily stand-ups, progress updates, blockers, and next steps across sprints—tracking our transition through research, prototyping, front-end React development, team restructuring, and system integration.
-- **Document Evidence:** [View Agile Logbook Document](./PartLink_Agile_Logbook%20%281%29.docx)
+- **Overview:** Our Agile logbook records daily stand-ups, progress updates, blockers, and next steps across sprints, tracking our progress through research, prototyping, front-end development, team restructuring, and system integration.
+
+### 📄 Agile Logbook Documents
+
+1. [View Agile Logbook — Part 1](./PartLink_Agile_Logbook%20%281%29.docx)
+
+2. [View Agile Logbook — Part 2](./PartLink_Agile_Logbook%20%282%29.docx)
+
+3. [View Agile Logbook — Part 3](./PartLink_Agile_Logbook%20%284%29.docx)
+
+4. [View Agile Logbook — Sprint 4–7 August](./PartLink_Agile_Logbook%204-7%20Aug%20....docx)
 
 ### Logbook Summaries
 
-- *Sprint 2 Prototype Phase:* Focused on drafting wireframes for search/filter and seller listings, turning them into clickable prototypes, and overcoming tool familiarity challenges.
-- *Team Onboarding & Tech Stack:* Welcomed Sesethu Nciti to the team as Researcher, mapped out Trello cards for wireframe planning (Days 1–4), and aligned on our tech stack: React (VS Code), Java (IntelliJ IDEA), and MySQL.
-- *Repository & Front-End Build:* Created the GitHub repository, built out all 17 wireframed screens in React (Landing, Home, Auth, Listings, Cart, Checkout), and added lecturer-assigned colour palette documentation.
-- *Team Realignment & Finalizing Front-End:* Managed team transition following Hillary's departure, with Onika stepping up as team lead, finalized the brand colour palette page, and welcomed Liyabona Ngece to the team for backend integration tasks.
+- **Sprint 2 Prototype Phase:** Focused on drafting wireframes for search/filter and seller listings, turning them into clickable prototypes, and overcoming tool familiarity challenges.
+- **Team Onboarding & Tech Stack:** Welcomed Sesethu Nciti to the team as Researcher, mapped out Trello cards for wireframe planning, and aligned on React, Java, and MySQL.
+- **Repository & Front-End Build:** Created the GitHub repository and developed the wireframed screens in React.
+- **Team Realignment & Finalizing Front-End:** Managed team transitions, finalized the brand colour palette, and welcomed new members for backend integration tasks.
 
 ---
 
