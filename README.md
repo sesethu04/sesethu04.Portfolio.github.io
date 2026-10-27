@@ -295,7 +295,7 @@ Executing a structured 10-Sprint Backlog on Trello provided practical experience
 
 3. [View Agile Logbook — Part 3](./PartLink_Agile_Logbook%20%284%29.docx)
 
-4. [View Agile Logbook — Sprint 4–7 August](./PartLink_Agile_Logbook%204-7%20Aug%20....docx)
+4.[View Agile Logbook — 4–7 August](./PartLink_Agile_Logbook%204-7%20Aug%20.docx)
 
 ### Logbook Summaries
 
