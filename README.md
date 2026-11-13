@@ -175,6 +175,18 @@ Co-creating and executing the PartLink team charter fostered strong team alignme
 - **Overview:** Based on community survey data (21 responses showing high demand for accessible car parts), our team defined user stories following the format: *As a [user], I want to [goal], so that [benefit]*. Stories were prioritized using the MoSCoW method (Must, Should, Could).
 - **Core User Groups:** Car owners, mechanics, small transport business owners, sellers, car enthusiasts, and administrators.
 - **Document Evidence:**
+-  **User Story Screenshots (Trello Cards):**
+  ![Trello card for Sprint 1 Day 1 showing the user story and completed tasks](./user-stories-1.png)
+
+  **Sprint 8 – Day 2: User Testing Requirements**
+
+  ![Trello card for Sprint 8 Day 2 showing the user story and completed tasks](./user-stories-2.png)
+
+  **Sprint 10 – Day 2: Final Project Presentation & Demonstration**
+
+  ![Trello card for Sprint 10 Day 2 showing the user story and completed tasks](./user-stories-3.png)
+
+- **Live Trello Board:** [PartLink Trello Board (User Stories)](https://trello.com/b/PmNt1Ast/parklink)
   - [View PartLink Marketplace User Stories PDF](./PartLink_User_Stories.pdf)
   - [View Sprint-by-Sprint Task Breakdown PDF](./User%20Stories.pdf)
 
