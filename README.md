@@ -249,6 +249,19 @@ Utilizing a live Kanban product backlog ensured complete transparency across the
 ## 📁 Evidence: Sprint Backlog & Visual Execution
 
 - **Overview:** The Sprint Backlog details our actionable 10-Sprint plan covering the entire development lifecycle of the PartLink application—from initial team setup and community research to wireframing, frontend/backend integration, system testing, and final deployment.
+-  **Sprint Backlog Screenshots:**
+
+  **Product Backlog & Sprints 1–3**
+
+  ![Trello board showing the Product Backlog and Sprints 1 to 3](./sprint-backlog-1.png)
+
+  **Sprints 5–8**
+
+  ![Trello board showing Sprints 5 to 8](./sprint-backlog-2.png)
+
+  **Sprints 9–10**
+
+  ![Trello board showing Sprints 9 and 10](./sprint-backlog-3.png)
 - **Live Trello Board:** [PartLink Sprint Backlog Board](https://trello.com/b/PmNt1Ast/parklink)
 - **Visual Trello Evidence:** Captured via sprint taskboard snapshots (Sprints 1 through 10) showing completed checklists and team member assignments (`SN`, `OG`, `HI`, `IK`, `LN`, `N`, `S`).
 
