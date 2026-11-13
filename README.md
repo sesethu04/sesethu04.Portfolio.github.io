@@ -231,6 +231,18 @@ Working with detailed user stories provided clear development direction, ensured
 ## 📁 Evidence: Product Backlog Board
 
 - **Overview:** The Product Backlog serves as our prioritized list of all required work, features, bug fixes, and improvements needed for the PartLink application.
+- **Product Backlog Screenshots:**
+ **Backlog Items**
+
+  ![Trello Product Backlog showing Sprint 1 cards](./product-backlog-1.png)
+
+  **Sprint 2 Backlog Items**
+
+  ![Trello Product Backlog showing Sprint 2 cards](./product-backlog-2.png)
+
+  **Sprint 3 Backlog Items**
+
+  ![Trello Product Backlog showing Sprint 3 cards](./product-backlog-3.png)
 - **Live Board Link:** [PartLink Trello Board](https://trello.com/b/PmNt1Ast/parklink)
 - **Backlog Structure:** Organized using Kanban workflows to manage user stories prioritized through the MoSCoW framework.
 
